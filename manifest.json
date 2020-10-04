@@ -1,0 +1,21 @@
+{
+  "name": "pwa template",
+  "short_name": "pwa template",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#232323",
+  "theme_color": "#333640",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/icons/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/img/icons/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ]
+}
